@@ -1,4 +1,4 @@
-ÒÔÏÂÓĞ4¸öÎÄ¼ş×é³É
+ä»¥ä¸‹æœ‰4ä¸ªæ–‡ä»¶ç»„æˆ
 main
 p1
 p2
@@ -6,7 +6,7 @@ event
 
 
 main.aardio
-Ö÷Ä£¿éÊ¹ÓÃloadcodexÔËĞĞ¼ÓÔØeventÄ£¿é
+ä¸»æ¨¡å—ä½¿ç”¨loadcodexè¿è¡ŒåŠ è½½eventæ¨¡å—
 
     import win.ui;
     /*DSG{{*/
@@ -25,7 +25,7 @@ main.aardio
 
     return win.loopMessage();         
 
-eventÄ£¿é ·â×°³£ÓÃÊÂ¼şº¯Êı
+eventæ¨¡å— å°è£…å¸¸ç”¨äº‹ä»¶å‡½æ•°
 \res\common\event.aardio  :
 
     import win
@@ -39,10 +39,10 @@ eventÄ£¿é ·â×°³£ÓÃÊÂ¼şº¯Êı
     }
 
 
-P1Ä£¿é µ÷ÓÃ eventÄ£¿é¶¨ÒåµÄÁ½¸öº¯Êı 
-    *²Â²â*
-    ÎÒ²Â²âeventÄ£¿éÓÉÓÚÔÚÖ÷º¯ÊıÒÑ¾­±»¼ÓÔØµ½ÁËÄÚ´æÖĞ×÷ÎªÈ«¾Öº¯Êı,
-    Òò´ËP1 P2Ö±½Ó¿ÉÒÔµ÷ÓÃshowAmsg/showBmsg
+P1æ¨¡å— è°ƒç”¨ eventæ¨¡å—å®šä¹‰çš„ä¸¤ä¸ªå‡½æ•° \res\p1.aardio
+    *çŒœæµ‹*
+    æˆ‘çŒœæµ‹eventæ¨¡å—ç”±äºåœ¨ä¸»å‡½æ•°å·²ç»è¢«åŠ è½½åˆ°äº†å†…å­˜ä¸­ä½œä¸ºå…¨å±€å‡½æ•°,
+    å› æ­¤P1 P2ç›´æ¥å¯ä»¥è°ƒç”¨showAmsg/showBmsg
 
     import win.ui;
     /*DSG{{*/
@@ -62,7 +62,7 @@ P1Ä£¿é µ÷ÓÃ eventÄ£¿é¶¨ÒåµÄÁ½¸öº¯Êı
     win.loopMessage();
     return p1;
 
-P2 Ä£¿é ºÍP1Ä£¿éÀàËÆ
+P2 æ¨¡å— å’ŒP1æ¨¡å—ç±»ä¼¼ \res\p2.aardio
 
     import win.ui;
     /*DSG{{*/
